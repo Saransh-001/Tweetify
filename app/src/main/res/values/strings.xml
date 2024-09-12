@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tweetify</string>
+    <string name="get_tweets_api">v3/b/66dd9e97acd3cb34a880343e?meta=false</string>">
+</resources>
